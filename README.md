@@ -92,6 +92,8 @@ pip install -r requirements.txt
 - Investigate feature importance and interpretability techniques
 - Develop ensemble methods combining multiple models
 
+## Deployment
+App was deployed and hosted to streamlit via the link https://fraudapprevised.streamlit.app/
 ## License
 This project is submitted as part of academic requirements for the Bachelor of Science in Data Science at Meru University of Science and Technology.
 
